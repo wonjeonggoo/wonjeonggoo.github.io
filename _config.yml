@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "WonJeong Goo, 구 원정"
 description              : "Theoretical content about mathematics and computer science"
 url                      : "https://wonjeonggoo.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog.naver.com/jung_worklife" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "WonJeong Goo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Seoul, South Korea"
+  email            : "wonjeong7559@daum.net" "wonjeong7559@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
